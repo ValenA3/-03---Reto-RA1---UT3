@@ -20,7 +20,7 @@ Elige **1 Mini PC** ya montado y complétalo con enlaces y justificación.
 - Tamaño / consumo (si aparece en ficha): 
 
 **Ventajas (mínimo 4):**
-- Al ser un procesador serie "Pro", incluye tecnologías de protección de datos a nivel de hardware.
+- Al ser un buen procesador, incluye tecnologías de protección de datos a nivel de hardware.
 - Su sistema de refrigeración está diseñado para ser silencioso en carga baja (oficina).
 - Gracias a sus 12 hilos de ejecución, puedes navegar con muchas pestañas y programas de gestión abiertos sin tirones.
 - Tener dos puertos Ethernet permite usarlo en configuraciones de red complejas o como servidor de oficina compacto.
