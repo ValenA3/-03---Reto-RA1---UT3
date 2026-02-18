@@ -64,7 +64,7 @@ Es una placa económica que ofrece salidas de vídeo HDMI y VGA, lo que asegura 
 
 **Captura (opcional si tu profe lo exige):**
 - Inserta imagen con ruta relativa desde `assets/img/`:
-  - `![alt](../assets/img/XX-seccion/archivo.png "tooltip")`
+  ![placa](../assets/img/10-pc_por_piezas/cpu2.PNG "placa")
 
 ## PASO 3 — Memoria RAM (mínimo 8 GB)
 
@@ -93,7 +93,7 @@ Al instalar dos módulos de 4GB, aprovechamos la tecnología Dual Channel, lo qu
 
 **Captura (opcional si tu profe lo exige):**
 - Inserta imagen con ruta relativa desde `assets/img/`:
-  - `![alt](../assets/img/XX-seccion/archivo.png "tooltip")`
+  ![ram](../assets/img/10-pc_por_piezas/ram2.PNG "ram")
 
 ## PASO 4 — Almacenamiento (SSD)
 
@@ -122,7 +122,7 @@ Al no tener partes móviles, el ruido es inexistente. Permite que Windows y las 
 
 **Captura (opcional si tu profe lo exige):**
 - Inserta imagen con ruta relativa desde `assets/img/`:
-  - `![alt](../assets/img/XX-seccion/archivo.png "tooltip")`
+  ![ssd](../assets/img/10-pc_por_piezas/ssd.PNG "ssd")
 
 ## PASO 5 — Fuente (PSU)
 
@@ -151,7 +151,7 @@ Su diseño está optimizado para ser lo más silencioso posible. Tambien incluye
 
 **Captura (opcional si tu profe lo exige):**
 - Inserta imagen con ruta relativa desde `assets/img/`:
-  - `![alt](../assets/img/XX-seccion/archivo.png "tooltip")`
+  ![fuente](../assets/img/10-pc_por_piezas/fuente.PNG "fuente")
 
 ## PASO 6 — Chasis
 
@@ -181,7 +181,7 @@ Buena opción para un entorno profesional por su diseño negro y simple. Es comp
 
 **Captura (opcional si tu profe lo exige):**
 - Inserta imagen con ruta relativa desde `assets/img/`:
-  - `![alt](../assets/img/XX-seccion/archivo.png "tooltip")`
+![torre](../assets/img/10-pc_por_piezas/torre.PNG "torre")
 
 ## PASO 7 — Presupuesto final
 - Suma total de la Opción A (por piezas).
