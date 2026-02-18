@@ -196,7 +196,6 @@ Plantilla sugerida:
 | RAM | Memoria RAM G.SKill Value DDR4 2133MHz PC4-17000 8GB 2x4GB CL15
  | 71,78€ | https://www.pccomponentes.com/gskill-value-ddr4-2133mhz-pc4-17000-8gb-2x4gb-cl15 |
 | SSD |Disco Duro Intenso Premium SSD 500GB M.2 NVMe PCIe 3.0 | 95,99€ | https://www.pccomponentes.com/intenso-premium-ssd-500gb-m2-nvme-pcie-30 |
-| PSU | Aerocool VX Plus 500W | 58,40€ | https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-aerocool-500w-modelo-vx-plus-500-atx-ventilador-12-cm
- |
+| PSU | Aerocool VX Plus 500W | 58,40€ | https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-aerocool-500w-modelo-vx-plus-500-atx-ventilador-12-cm |
 | Chasis | Torre PC Nox Forte USB 3.0 | 32,98€ | https://www.pccomponentes.com/nox-forte-usb-30 |
 | **TOTAL** |  | **476,36€** |  |
