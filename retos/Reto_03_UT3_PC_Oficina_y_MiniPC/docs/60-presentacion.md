@@ -17,3 +17,4 @@ Crea una presentación (PowerPoint/Google Slides/LibreOffice Impress).
 - precio
 - URL (como texto o QR si quieres)
 
+[Presentación del Proyecto (PDF)](./Proyecto-de-montaje.pdf)
