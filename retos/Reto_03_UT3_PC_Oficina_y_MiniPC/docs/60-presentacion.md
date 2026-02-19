@@ -16,3 +16,5 @@ Crea una presentación (PowerPoint/Google Slides/LibreOffice Impress).
 - modelo exacto
 - precio
 - URL (como texto o QR si quieres)
+
+[Descargar Presentación del Proyecto (PPTX)](./nombre-de-tu-archivo.pptx)
