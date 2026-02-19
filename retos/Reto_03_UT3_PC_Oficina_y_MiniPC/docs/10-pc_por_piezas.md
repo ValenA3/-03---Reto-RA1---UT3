@@ -193,8 +193,7 @@ Plantilla sugerida:
 |---|---|---:|---|
 | CPU | AMD Ryzen 5 4600G 3.7/4.20GHz | 157,99€ | https://www.pccomponentes.com/procesador-amd-ryzen-5-4600g-37-420ghz |
 | Placa base | Asus Prime A520M-K | 59,22€ | https://www.pccomponentes.com/asus-prime-a520m-k?srsltid=AfmBOoqbgB2dLvkiUmjxkw5ILnMWUQcRDi-leU36jO9SfTZhEc-qUunV |
-| RAM | Memoria RAM G.SKill Value DDR4 2133MHz PC4-17000 8GB 2x4GB CL15
- | 71,78€ | https://www.pccomponentes.com/gskill-value-ddr4-2133mhz-pc4-17000-8gb-2x4gb-cl15 |
+| RAM | Memoria RAM G.SKill Value DDR4 2133MHz PC4-17000 8GB 2x4GB CL15 | 71,78€ | https://www.pccomponentes.com/gskill-value-ddr4-2133mhz-pc4-17000-8gb-2x4gb-cl15 |
 | SSD |Disco Duro Intenso Premium SSD 500GB M.2 NVMe PCIe 3.0 | 95,99€ | https://www.pccomponentes.com/intenso-premium-ssd-500gb-m2-nvme-pcie-30 |
 | PSU | MSI MAG A650BN 650W 80 Plus Bronze | 52,90€ | https://www.pccomponentes.com/msi-mag-a650bn-650w-80-plus-bronze |
 | Chasis | Torre PC Nox Forte USB 3.0 | 32,98€ | https://www.pccomponentes.com/nox-forte-usb-30 |
