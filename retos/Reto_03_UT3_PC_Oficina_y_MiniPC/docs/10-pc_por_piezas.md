@@ -127,31 +127,31 @@ Al no tener partes móviles, el ruido es inexistente. Permite que Windows y las 
 ## PASO 5 — Fuente (PSU)
 
 **Componente elegido:**  PSU
-- **Marca y modelo:**  Aerocool VX Plus 500W
-- **Precio (€):**  58,40€
-- **URL tienda:**  https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-aerocool-500w-modelo-vx-plus-500-atx-ventilador-12-cm
+- **Marca y modelo:**  MSI MAG A650BN 650W 80 Plus Bronze
+- **Precio (€):**  52,90€
+- **URL tienda:**  https://www.pccomponentes.com/msi-mag-a650bn-650w-80-plus-bronze
 
 **Ficha técnica oficial (obligatorio):**  
 - URL oficial (fabricante/estándar):  https://aerocool.io/la/product/vx-plus-500/
 
 **Características principales (resumen):**
-- Potencia: 500W
+- Potencia: 650W
 - Formato: ATX
-- Ventilador silencioso de 12cm
-- Raíl único de +12V
+- Certificacion: 80 Plus Bronze
+
 
 **Justificación (oficina):**
-Su diseño está optimizado para ser lo más silencioso posible. Tambien incluye protecciones contra picos de tensión, lo que protege la placa y el procesador de posibles fallos eléctricos.
+Tiene poco consumo eléctrico y poco calor generado. Además, sus 650W permiten futuras mejoras y sus protecciones eléctricas protegen el equipo contra subidas de tensión.
 
 **Compatibilidad (obligatorio, con enlaces):**
-- Compatibilidad clave 1 (ej.: socket soportado, QVL, tipo DDR, M.2 NVMe…):  Conector ATX de 24 pines para la placa base y el conector de 4+4 pines para la CPU, cumpliendo con los requisitos de la ASUS Prime A520M-K.
-  - Evidencia (URL):  https://aerocool.io/la/product/vx-plus-500/
-- Compatibilidad clave 2:  Tiene estándar ATX, lo que garantiza su instalación en el chasis
-  - Evidencia (URL):  https://www.nox-xtreme.com/cajas/forte
+- Compatibilidad clave 1 (ej.: socket soportado, QVL, tipo DDR, M.2 NVMe…):  Es una fuente de formato ATX, compatible con las dimensiones de la torre Nox Forte.
+  - Evidencia (URL): https://es.msi.com/Power-Supply/MAG-A650BN/Specification
+- Compatibilidad clave 2:  Tiene conector de 24 pines ATX y el de 8 pines EPS (4+4) necesarios para alimentar la placa base Asus Prime A520M-K.
+  - Evidencia (URL): https://es.msi.com/Power-Supply/MAG-A650BN/Specification
 
 **Captura (opcional si tu profe lo exige):**
 - Inserta imagen con ruta relativa desde `assets/img/`:
-  ![fuente](../assets/img/10-pc_por_piezas/fuente.PNG "fuente")
+  ![fuente](../assets/img/10-pc_por_piezas/msi.PNG "fuente")
 
 ## PASO 6 — Chasis
 
@@ -196,6 +196,6 @@ Plantilla sugerida:
 | RAM | Memoria RAM G.SKill Value DDR4 2133MHz PC4-17000 8GB 2x4GB CL15
  | 71,78€ | https://www.pccomponentes.com/gskill-value-ddr4-2133mhz-pc4-17000-8gb-2x4gb-cl15 |
 | SSD |Disco Duro Intenso Premium SSD 500GB M.2 NVMe PCIe 3.0 | 95,99€ | https://www.pccomponentes.com/intenso-premium-ssd-500gb-m2-nvme-pcie-30 |
-| PSU | Aerocool VX Plus 500W | 58,40€ | https://www.pccomponentes.com/fuente-alimentacion-fuente-de-alimentacion-aerocool-500w-modelo-vx-plus-500-atx-ventilador-12-cm |
+| PSU | MSI MAG A650BN 650W 80 Plus Bronze | 52,90€ | https://www.pccomponentes.com/msi-mag-a650bn-650w-80-plus-bronze |
 | Chasis | Torre PC Nox Forte USB 3.0 | 32,98€ | https://www.pccomponentes.com/nox-forte-usb-30 |
-| **TOTAL** |  | **476,36€** |  |
+| **TOTAL** |  | **470,86€** |  |
