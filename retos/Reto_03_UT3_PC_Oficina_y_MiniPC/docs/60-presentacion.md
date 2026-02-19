@@ -17,4 +17,5 @@ Crea una presentación (PowerPoint/Google Slides/LibreOffice Impress).
 - precio
 - URL (como texto o QR si quieres)
 
-[Descargar Presentación del Proyecto (PPTX)](./nombre-de-tu-archivo.pptx)
+[Descargar Presentación del Proyecto (PPTX)](../assets/img/10-pc_por_piezas/d)
+ ![cpu](../assets/img/10-pc_por_piezas/ryzen.jpg "cpu")
