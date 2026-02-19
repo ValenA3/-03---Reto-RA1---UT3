@@ -251,7 +251,7 @@ Rellena esta tabla:
 
 | Aspecto | Opción A (por piezas) | Opción B (Mini PC) |
 |---|---|---|
-| Precio total | 476,36€ | 420€ |
+| Precio total | 470,86€ | 420€ |
 | Rendimiento esperado (oficina) | Muy bueno | Muy bueno |
 | Ampliación (RAM/SSD) | Total (Placa base estándar) | Limitada (2x SODIMM / 2x M.2) |
 | Consumo/ruido/espacio | Alto consumo / Torre grande | Bajo consumo / Ultra compacto |
